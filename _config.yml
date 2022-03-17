@@ -2,14 +2,14 @@ url: https://nsswaga.github.io
 baseurl: /win/
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
+title: Win In Norway
+email: dexterdexter@gmail.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Dexter Pontañeles
   pic: 1
   position: Lead Designer
   social:
@@ -20,7 +20,7 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Charlyn Obiso
   pic: 2
   position: Lead Marketer
   social:
@@ -31,7 +31,18 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: Marloe Uy
+  pic: 3
+  position: Lead Developer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+      
+- name: Lars Erik Mobæk
   pic: 3
   position: Lead Developer
   social:
